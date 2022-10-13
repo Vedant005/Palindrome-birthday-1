@@ -7,5 +7,7 @@ Check if your birthday is a palindrome or not.
 3) HTML
 
 # APP LIVE LINK
-![image](https://user-images.githubusercontent.com/111733870/195619115-cbc47518-8ee7-4a13-8e6f-de42b9030004.png)
+https://ornate-creponne-ee4c9e.netlify.app/
 
+# SCREENSHOT
+![Screenshot (26)](https://user-images.githubusercontent.com/111733870/195619482-a5f2b970-e542-4d24-881e-6378b3eb7e56.png)
